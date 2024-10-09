@@ -14,6 +14,11 @@
 ### 8-3 인코더
 
 ![alt text](image-1.png)
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 # 비트, 비트, 비트
 
